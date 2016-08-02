@@ -1,6 +1,6 @@
 {
   "name": "@alexd1971/logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Logger for log-server (https://github.com/alexd1971/log-server)",
   "main": "logger.js",
   "scripts": {
