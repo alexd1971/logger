@@ -1,0 +1,23 @@
+{
+  "name": "@alexd1971/logger",
+  "version": "1.0.1",
+  "description": "Logger for log-server (https://github.com/alexd1971/log-server)",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "client",
+    "logger"
+  ],
+  "author": "Aleksey Danilevsky",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "winston": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexd1971/logger.git"
+  }
+}
